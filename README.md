@@ -3,17 +3,8 @@
 Followed Tutorial
 https://dev.to/riddhiagrawal001/create-react-app-without-create-react-app-2lgd
 
-1. Install node_modules dependencies
-npm install
+1. Install node_modules dependencies: npm install
 
-2. npm install react react-dom 
+2. Start: npm start
 
-3. install babel
-npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader
-
-4. install webpack
-npm install --save-dev html-webpack-plugin style-loader css-loader file-loader
-
-5. Start: npm start
-
-6. Production Build: npm run build
+3. Production Build: npm run build
