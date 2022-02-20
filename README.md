@@ -12,3 +12,4 @@ npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-l
 
 4. install webpack
 npm install --save-dev html-webpack-plugin style-loader css-loader file-loader
+
